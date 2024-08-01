@@ -72,7 +72,7 @@ nav{
     height: 6vh;
     width: 6vh;
     border-radius: 50%;
-    background: url('../Photos/1.jpg') no-repeat center/cover;
+    background: url('pht.jpg') no-repeat center/cover;
 }
 .nav a{
     color: var(--black-i);
@@ -149,7 +149,7 @@ nav{
     height: 40vh;
     width: 40vh;
     margin-left: 5vw;
-    background: url('phti.jpg') no-repeat center/cover;
+    background: url('pht.jpg') no-repeat center/cover;
     box-shadow: 8px 8px 0px var(--white-i), 15px 15px 0px var(--black-i);
     transition: all 0.2s ease-in;
 }
